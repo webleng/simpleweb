@@ -1,0 +1,13 @@
+{
+    "name": "ttboys",
+    "description": "Deploy simple web on Heroku.",
+    "keywords": ["ttboys"],
+    "env": {
+        "COOKE": {
+            "description": "cooke",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        }
+    },
+
+    "stack": "container"
+}
